@@ -9,6 +9,7 @@ public class Main {
         // This code doesn't use arrays, although it would have been easier, because they weren't learned until this moment in time
 
         MyScanner scanner = new MyScanner ();
+
         System.out.println ("    -----------------------------------------------\n" +
                 "   --- ===== Hello and welcome to McBurger! ==== ---\n" +
                 "--------------------------------------------------------");
